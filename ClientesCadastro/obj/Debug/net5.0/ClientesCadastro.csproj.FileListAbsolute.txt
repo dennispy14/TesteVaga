@@ -1,0 +1,14 @@
+C:\Users\DennisPy\source\repos\ClientesCadastro\bin\Debug\net5.0\ClientesCadastro.deps.json
+C:\Users\DennisPy\source\repos\ClientesCadastro\bin\Debug\net5.0\ClientesCadastro.dll
+C:\Users\DennisPy\source\repos\ClientesCadastro\bin\Debug\net5.0\ref\ClientesCadastro.dll
+C:\Users\DennisPy\source\repos\ClientesCadastro\bin\Debug\net5.0\ClientesCadastro.pdb
+C:\Users\DennisPy\source\repos\ClientesCadastro\obj\Debug\net5.0\ClientesCadastro.csprojAssemblyReference.cache
+C:\Users\DennisPy\source\repos\ClientesCadastro\obj\Debug\net5.0\ClientesCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DennisPy\source\repos\ClientesCadastro\obj\Debug\net5.0\ClientesCadastro.AssemblyInfoInputs.cache
+C:\Users\DennisPy\source\repos\ClientesCadastro\obj\Debug\net5.0\ClientesCadastro.AssemblyInfo.cs
+C:\Users\DennisPy\source\repos\ClientesCadastro\obj\Debug\net5.0\ClientesCadastro.csproj.CoreCompileInputs.cache
+C:\Users\DennisPy\source\repos\ClientesCadastro\obj\Debug\net5.0\ClientesCadastro.dll
+C:\Users\DennisPy\source\repos\ClientesCadastro\obj\Debug\net5.0\ref\ClientesCadastro.dll
+C:\Users\DennisPy\source\repos\ClientesCadastro\obj\Debug\net5.0\ClientesCadastro.pdb
+C:\Users\DennisPy\source\repos\ClientesCadastro\obj\Debug\net5.0\TelaCliente.Form1.resources
+C:\Users\DennisPy\source\repos\ClientesCadastro\obj\Debug\net5.0\ClientesCadastro.csproj.GenerateResource.cache
